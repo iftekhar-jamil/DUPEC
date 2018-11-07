@@ -1,0 +1,14 @@
+approve hole or remove korle kisu dekhano
+<?php if($check == 'a') : ?>
+                <div id="aprvd">
+                    The rquest is approved.
+                </div>
+            <?php elseif($check == 'b') : ?>
+                <div id="rmvd">
+                    The rquest is not approved.
+                </div>
+            <?php else : ?>
+            <?php endif; ?>
+
+            $this->session->set_flashdata('in','a');
+              $this->session->set_flashdata('in','b');

@@ -1,0 +1,34 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #2aabd2;
+    margin-top: -20px;
+    text-align: center;
+    padding: 20px 40px;
+    position: absolute;
+}
+
+#leftNav{
+    height: 100vh;
+    width: 200px;
+    top: 80px;
+    background-color: #1b6d85;
+    position: relative;
+    text-align: center;
+
+}
+#leftNav{
+    height: 100vh;
+    width: 200px;
+    top: 80px;
+    background-color: #1b6d85;
+    position: relative;
+    text-align: center;
+
+}
+#tag{
+    padding-top: 30px;
+    text-align: left;
+    padding-left: 50px;
+    color: black;
+}

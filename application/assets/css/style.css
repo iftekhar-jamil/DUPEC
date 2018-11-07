@@ -1,0 +1,32 @@
+body{
+    background-color: #03506d;
+}
+h1{
+    text-align: center;
+
+}
+form{
+    text-align: center;
+    margin: 20px auto;
+    width: 400px;
+    color: steelblue;
+}
+select,input{
+    padding: 10px;
+    font-size: inherit;
+}
+
+
+select,input{
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+}
+
+#submit{
+
+    color: white;
+    width: 425px;
+    background-color: #327334;
+}
